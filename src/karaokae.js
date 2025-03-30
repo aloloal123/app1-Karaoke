@@ -26,7 +26,7 @@ export default function Karaoke() {
   };
 
   return (
-    <div>
+    <div style={{ marginTop: '10px', marginLeft: '10px' }}>
       <table width="400" border="2" style={{ borderColor: '#000000' }}>
         <tbody>
           <tr>
